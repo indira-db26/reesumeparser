@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Indira.Db",
+        "email": "banumathig45@gmail.com",
+        "phone": "9535866090",
+        "urls": [
+            "https://github.com/indira-db26"
+        ],
+        "skills": [
+            "html",
+            "python",
+            "communication",
+            "java",
+            "git",
+            "javascript",
+            "teamwork",
+            "css"
+        ],
+        "nlp_entities": [
+            "data structures & algorithms (ORG)",
+            "university of michigan (ORG)",
+            "weekly (DATE)",
+            "volunteer tech fest committee - (ORG)",
+            "3rd year (DATE)"
+        ],
+        "raw_text_length": 1938,
+        "filename": "sample_resume.docx"
+    },
+    {
+        "name": "Indira.Db",
+        "email": "banumathig45@gmail.com",
+        "phone": "9535866090",
+        "urls": [
+            "https://github.com/indira-db26"
+        ],
+        "skills": [
+            "html",
+            "python",
+            "communication",
+            "java",
+            "git",
+            "javascript",
+            "teamwork",
+            "css"
+        ],
+        "nlp_entities": [
+            "data structures & algorithms (ORG)",
+            "university of michigan (ORG)",
+            "weekly (DATE)",
+            "volunteer tech fest committee - (ORG)",
+            "3rd year (DATE)"
+        ],
+        "raw_text_length": 1926,
+        "filename": "sample_resume.pdf"
+    }
+]

@@ -1,0 +1,24 @@
+python
+java
+sql
+html
+css
+javascript
+react
+angular
+django
+flask
+spring
+machine learning
+data analysis
+git
+aws
+azure
+docker
+kubernetes
+c++
+c#
+tableau
+communication
+teamwork
+problem solving
